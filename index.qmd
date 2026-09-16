@@ -2,6 +2,7 @@
 title: "Tori Loukas"
 subtitle: "BU MET | Applied Business Analytics"
 format: html
+jupyter: python3
 ---
 
 # Welcome
