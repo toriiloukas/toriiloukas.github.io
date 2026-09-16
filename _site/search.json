@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Tori Loukas",
     "section": "",
-    "text": "Hi, I’m Tori Loukas. I’m a graduate student in Boston University’s Metropolitan College, studying Applied Business Analytics.\nThis website was created for AD688: Big Data and Cloud Analytics for Business. It demonstrates my work with cloud computing, Python, data analytics, and reproducible workflows.\n\n\nThe Python code below runs directly on my AWS EC2 environment.\nimport platform import psutil\nprint(“Operating System:”, platform.system(), platform.release()) print(“Python Version:”, platform.python_version()) print(“Machine:”, platform.machine()) print(“Processor:”, platform.processor())\nmem = psutil.virtual_memory() print(“Total Memory (MB):”, round(mem.total / (10242), 2)) print(“Available Memory (MB):”, round(mem.available / (10242), 2))"
+    "text": "Hi, I’m Tori Loukas. I’m a graduate student at Boston University Metropolitan College studying Applied Business Analytics.\nThis website was created for AD688: Big Data and Cloud Analytics for Business. It demonstrates my work with cloud computing, Python, data analytics, and reproducible workflows.\n\n\nThe Python code below runs directly on my AWS EC2 environment.\nimport platform import psutil\nprint(“Operating System:”, platform.system(), platform.release()) print(“Python Version:”, platform.python_version()) print(“Machine:”, platform.machine()) print(“Processor:”, platform.processor())\nmem = psutil.virtual_memory() print(“Total Memory (MB):”, round(mem.total / (10242), 2)) print(“Available Memory (MB):”, round(mem.available / (10242), 2))"
   },
   {
     "objectID": "index.html#system-information",
